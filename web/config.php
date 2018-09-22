@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds');
-define('GJ_CODE', 'JP');
-define('SITE_NAME', 'YouTube');
+define('APIKEY', 'AIzaSyCWy7G0YnVJcsTVGYSazGlN5nsiZAJZGVw');
+define('GJ_CODE', 'hk');
+define('SITE_NAME', 'houYouTube');
 define('TITLENAME', 'YouTube Mirror');
 define('EN2DEKEY', 'TXhEBihhDkmSpeHBBrrWahoPZUyS1jPsCwJGYgMoDClTpCTkbnJLQt7QHrhy5TjoFq4hvQ9VvkUoN1xoX1oyqIurmDdwwI2pJP');
-define('EMAIL', 'example@example.ne.jp');
+define('EMAIL', 'hb1998@zoho.com');
 ?>
